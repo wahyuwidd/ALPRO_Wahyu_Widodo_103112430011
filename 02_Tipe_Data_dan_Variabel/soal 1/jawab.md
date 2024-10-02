@@ -1,0 +1,1 @@
+yang sebenernya terjadi hanya pertukaran nilai dari variable satu disimpan di temp, nilai dua dipindahkan ke satu, nilai tiga dipindahkan ke dua, yang terakhir nilai temp di pindahkan ke tiga.
