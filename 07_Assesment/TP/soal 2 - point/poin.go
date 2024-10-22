@@ -14,6 +14,7 @@ func main() {
 		Jumlah = i * point
 		// jika input lebih dari 5, poin tambahan akan di tambah menajadi n
 		if input > 5 {
+			//hitung poin normal dulu terus di tambah poin tambahan
 			Jumlah = (5 * point) + ((input - 5) * pointTambah * 3)
 		}
 	}
